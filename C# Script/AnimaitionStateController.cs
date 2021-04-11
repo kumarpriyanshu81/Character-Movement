@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Main
 public class AnimaitionStateController : MonoBehaviour
 {
     Animator animator;
